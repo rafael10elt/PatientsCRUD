@@ -1,5 +1,5 @@
 # Patients CRUD
-## O projeto é uma aplicação capaz de criar, atualizar, excluir e ler (CRUD) dados da entidade Patients.
+## O projeto é uma APIRest em Node, capaz de criar, atualizar, excluir e ler (CRUD) dados da entidade Patients.
 
 ### Passo 1: Clonar o projeto
 ### Passo 2: Após clonar o projeto, abrir o terminal e inserir o comando:
