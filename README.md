@@ -1,6 +1,6 @@
 # Patients CRUD
 
-## - O projeto é uma API Rest em Node, capaz de criar, atualizar, excluir e ler (CRUD) dados da entidade Patients.
+## - O projeto é uma API REST desenvolvida em NodeJS, capaz de criar, atualizar, excluir e ler (CRUD) dados da entidade Patients.
 _________________________________________________________________________
 
 ### Passo 1: Clonar o projeto
@@ -10,6 +10,13 @@ _________________________________________________________________________
 ### Passo 3: Para inicializar o projeto, inserir no terminal o camando:
 ### npm start
 ### Passo 4: Acessar a API pelo endereçõ: http://localhost:3333/api/patients/
+### Passo 5: Para realizar ações na aplicação, é necessário seguir o padrão de
+### requisições em HTTP:
+### GET /api/patients  ( Mostrar todos os pacientes registrados. )
+### GET /api/patients/:id ( Mostrar os dados de um paciente específico, baseando-se pela chave id. )
+### POST /api/patients  ( Adicionar um novo paciente. )
+### PUT /api/patients/:id  ( Alterar os dados de um paciente especificado via id.)
+### DELETE /api/patients/:id  ( Deletar os dados de um paciente especificado via id.)
 _________________________________________________________________________
 
 ## - Pacotes instalados no projeto:
