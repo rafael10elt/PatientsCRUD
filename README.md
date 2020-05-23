@@ -9,7 +9,7 @@ _________________________________________________________________________
 ### Esse comando irá instalar os pacotes.
 ### Passo 3: Para inicializar o projeto, inserir no terminal o camando:
 ### npm start
-### Passo 4: Acessar a API pelo endereçõ: http://localhost:3333/api/patients/
+### Passo 4: Acessar a API pelo endereço: http://localhost:3333/api/patients/
 ### Passo 5: Para realizar ações na aplicação, é necessário seguir o padrão de
 ### requisições em HTTP:
 ### GET /api/patients  ( Mostrar todos os pacientes registrados. )
