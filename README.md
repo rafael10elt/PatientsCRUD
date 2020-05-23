@@ -9,7 +9,7 @@ _________________________________________________________________________
 ### Esse comando irá instalar os pacotes.
 ### Passo 3: Para inicializar o projeto, inserir no terminal o camando:
 ### npm start
-### Passo 4: Acessar a API pela porta 3333.
+### Passo 4: Acessar a API pelo endereçõ: http://localhost:3333/api/patients/
 _________________________________________________________________________
 
 ## - Pacotes instalados no projeto:
