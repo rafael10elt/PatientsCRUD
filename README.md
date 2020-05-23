@@ -29,6 +29,6 @@ _________________________________________________________________________
 
 _________________________________________________________________________
 
-### - Para realização dos testes de funcionamento das requisições foi utilizado o
-###  aplicativo de Design Plataform e RET Client Open Source: Insomnia
+### - Para realização dos testes de funcionamento das requisições, foi utilizado o
+###  aplicativo de Design Plataform e REST Client Open Source: Insomnia
 ### Para download do Insomnia: https://insomnia.rest/download/
