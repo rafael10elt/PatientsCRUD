@@ -1,0 +1,28 @@
+{
+  "name": "patientscrud",
+  "version": "1.0.0",
+  "description": "O projeto é uma aplicação capaz de criar, atualizar, excluir e ler (CRUD) dados da entidade Patients.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafael10elt/PatientsCRUD.git"
+  },
+  "author": "Jadson Rafael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafael10elt/PatientsCRUD/issues"
+  },
+  "homepage": "https://github.com/rafael10elt/PatientsCRUD#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "knex": "^0.21.1",
+    "sqlite3": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
