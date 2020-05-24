@@ -62,6 +62,11 @@ module.exports = {
             .where('id', id)
             .select('id')
             .first();
+        if (!patients) {
+            return res.status(400).json({
+                error: 'Patient not found!'
+            });
+        }
 
         await connection('patients').where('id', id).delete();
 
