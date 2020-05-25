@@ -6,7 +6,7 @@ _________________________________________________________________________
 ### Passo 1: Clonar o projeto
 ### Passo 2: Após clonar o projeto, abrir o terminal e inserir o comando:
 ### npm install
-### Esse comando irá instalar os pacotes.
+### Esse comando irá instalar as depencências do projeto.
 ### Passo 3: Para inicializar o projeto, inserir no terminal o camando:
 ### npm start
 ### Passo 4: Acessar a API pelo endereço: http://localhost:3333/api/patients/
